@@ -32,7 +32,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Thread-picruncher finds the value of pi with extreame presision optimized for HPC.
+Thread-picruncher finds the value of pi with extreme precision optimized for HPC.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
