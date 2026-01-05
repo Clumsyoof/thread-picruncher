@@ -83,6 +83,8 @@ clang++ -march=native -O3 montecarlo.c++ -o montecarlo
 - [ ] Direct register loading
 - [ ] Loop Unrolling implimentation
 - [ ] ARM support
+- [ ] mmap implimentation
+- [ ] better data loading
 
 See the [open issues](https://github.com/Clumsyoof/thread-picruncher/issues) for a full list of proposed features (and known issues).
 
