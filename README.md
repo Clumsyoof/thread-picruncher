@@ -32,7 +32,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Thread-picruncher finds the value of pi with extreme precision optimized for HPC.
+Thread-picruncher is a multithreaded SIMD implimentation of the montecarlo algorithm for finding pie. 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
