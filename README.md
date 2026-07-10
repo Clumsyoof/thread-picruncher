@@ -20,7 +20,6 @@
         </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -71,22 +70,6 @@ g++ -march=native -O3 montecarlo.c++ -o montecarlo
 clang++ -march=native -O3 montecarlo.c++ -o montecarlo
 
 ````
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-- [ ] LCG implementation
-- [ ] Direct register loading
-- [ ] Loop Unrolling implimentation
-- [ ] ARM support
-- [ ] mmap implimentation
-- [ ] better data loading
-
-See the [open issues](https://github.com/Clumsyoof/thread-picruncher/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
